@@ -20,8 +20,8 @@ HubSpot is an American developer and marketer of software products for inbound m
 • Ejaz Ahmad</br>
 • Sachin Parmar</br>
 
-Technology Used
- • HTML 
- • CSS 
- • JAVASCRIPT
+## Technology Used
+ • HTML </br>
+ • CSS </br>
+ • JAVASCRIPT</br>
 
